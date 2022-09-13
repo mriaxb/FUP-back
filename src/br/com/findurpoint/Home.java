@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Home extends AbstractEntity{
 
 
-
+//linha 10 precisa ser conferida//
     public static void main(LoginUser senhaUser) {
         verificaSenha(senhaUser.getSenhaUser(), senhaUser.getConfirmacaoSenha());
 
